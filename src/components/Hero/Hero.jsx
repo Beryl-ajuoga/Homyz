@@ -20,7 +20,7 @@ const hero = () => {
                 </div>
 
                 <div className=' flexColStart hero-des'>
-                    <span>Find a variety of properties that suite you easily</span> 
+                    <span>Find a variety of properties that suite you today</span> 
                     <span>Forget all difficulties in finding a residence for you</span>
                 </div>
 
@@ -40,7 +40,6 @@ const hero = () => {
                             <span>+</span>
                             <span>
                                 Premium Products
-
                             </span>
                     </div>
 
@@ -51,7 +50,6 @@ const hero = () => {
                             <span>+</span>
                             <span>
                                 Happy Customers
-
                             </span>
                     </div>
 
